@@ -1,0 +1,18 @@
+
+:root {
+  font-family: Inter, Arial, sans-serif;
+  color: #201443;
+  background: #f7f5ff;
+  color-scheme: light;
+  font-synthesis: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
